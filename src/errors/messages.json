@@ -1,0 +1,14 @@
+{
+    "en":{
+        "productNotFound":"Product  not found",
+        "unitNotFound":"Unit not found",
+        "categoryNotFound":"Category not found",
+        "unauthorized":"You are unauthorized"
+    },
+    "ar":{
+        "productNotFound":"Product  not found",
+        "unitNotFound":"Unit not found",
+        "categoryNotFound":"Category not found",
+        "unauthorized":"You are unauthorized"
+    }
+}
